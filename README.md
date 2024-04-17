@@ -24,4 +24,4 @@ Algunas muestras de las funciones del proyecto:
 
 *Página inicial*
 
-!(https://raw.githubusercontent.com/Alexis-Srrn/sistema_e-commerce/main/Capturas/1.png)
+![Página principal](https://raw.githubusercontent.com/Alexis-Srrn/sistema_e-commerce/main/Capturas/1.png)
